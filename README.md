@@ -44,8 +44,8 @@ Left Mouse Button: Toggle cell state.
 - **S: Decrease simulation speed.**
 - **R: Generate a random initial state.**
 - **C: Clear the grid.**
-Contributing
-Feel free to fork this project and submit a pull request if you have suggestions for improvements or new features. You can also open issues for any bugs you encounter or suggestions you have.
+- Contributing: Feel free to fork this project and submit a pull request if you have suggestions for improvements or new features.
+  You can also open issues for any bugs you encounter or suggestions you have.
 
 ## License
 
